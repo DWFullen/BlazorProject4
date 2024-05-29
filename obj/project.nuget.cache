@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YodIg/1qtrVtnu3qui1Ts3ykdma4YVugbrcSu/Tuq3cE3+n60jnuLOXCPthCuuCMvlwOapNJl+whIZevZ+zq8A==",
+  "success": true,
+  "projectFilePath": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorProject4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doug\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
