@@ -41,3 +41,7 @@ build_metadata.AdditionalFiles.CssScope =
 [F:/Documents/GettingGood/Azure Projects/Blazor Web Dev/Blazor Projects/BlazorProject4/BlazorApp4/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-y97violqbf
+
+[F:/Documents/GettingGood/Azure Projects/Blazor Web Dev/Blazor Projects/BlazorProject4/BlazorApp4/Components/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xfSG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

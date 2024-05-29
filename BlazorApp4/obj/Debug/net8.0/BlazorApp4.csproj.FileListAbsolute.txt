@@ -26,3 +26,7 @@ F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorPro
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\BlazorApp4.pdb
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\BlazorApp4.genruntimeconfig.cache
 F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\ref\BlazorApp4.dll
+F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\BlazorApp4.RazorAssemblyInfo.cache
+F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\BlazorApp4.RazorAssemblyInfo.cs
+F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\obj\Debug\net8.0\BlazorApp4.sourcelink.json
+F:\Documents\GettingGood\Azure Projects\Blazor Web Dev\Blazor Projects\BlazorProject4\BlazorApp4\bin\Debug\net8.0\libman.json
