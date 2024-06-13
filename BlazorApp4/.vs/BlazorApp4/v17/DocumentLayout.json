@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorApp4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF535C-CF60-4DAC-8189-9FFFFECFBD47}|BlazorApp4.csproj|f:\\documents\\gettinggood\\azure projects\\blazor web dev\\blazor projects\\blazorproject4\\blazorapp4\\components\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0EF535C-CF60-4DAC-8189-9FFFFECFBD47}|BlazorApp4.csproj|solutionrelative:components\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF535C-CF60-4DAC-8189-9FFFFECFBD47}|BlazorApp4.csproj|f:\\documents\\gettinggood\\azure projects\\blazor web dev\\blazor projects\\blazorproject4\\blazorapp4\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0EF535C-CF60-4DAC-8189-9FFFFECFBD47}|BlazorApp4.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorApp4\\Components\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Components\\Pages\\_Host.cshtml",
+              "ToolTip": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorApp4\\Components\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Components\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T01:10:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorApp4\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "F:\\Documents\\GettingGood\\Azure Projects\\Blazor Web Dev\\Blazor Projects\\BlazorProject4\\BlazorApp4\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T01:08:35.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
